@@ -1,7 +1,7 @@
 {
     "th": {
         "helloWorld": "สวัสดี ทุกท่าน",
-        "version_lang": "v1.0.0-beta_20250114_2",
+        "version_lang": "v1.0.0-beta_20250114_3",
         "language_th": "ภาษาไทย",
         "language_en": "English",
         "language_my": "မြန်မာစာ",
@@ -1862,7 +1862,7 @@
         "billing_call_abroad": "โทรออกต่างประเทศ",
         "billing_receive_calls_abroad": "รับสายขณะอยู่ต่างประเทศ",
         "billing_call_a_third_country": "โทรออกไปยังประเทศที่ 3",
-        "payment_topup_label_ais_one_two_call_numbers": "หมายเลข AIS ของคุณ",
+        "payment_topup_label_ais_one_two_call_numbers": "เติมเงินให้",
         "payment_topup_label_choose_amount_baht": "เลือกจำนวนเงิน (บาท)",
         "payment_topup_button_see_more": "ดูทั้งหมด",
         "payment_topup_button_top_up": "เติมเงิน",
@@ -5411,7 +5411,7 @@
     },
     "en": {
         "helloWorld": "hello everybody!!",
-        "version_lang": "v1.0.0-beta_20250114_2",
+        "version_lang": "v1.0.0-beta_20250114_3",
         "language_th": "ภาษาไทย",
         "language_en": "English",
         "language_my": "မြန်မာစာ",
@@ -7272,7 +7272,7 @@
         "billing_call_abroad": "International call",
         "billing_receive_calls_abroad": "Receiving international calls",
         "billing_call_a_third_country": "Making calls to other countries",
-        "payment_topup_label_ais_one_two_call_numbers": "AIS number",
+        "payment_topup_label_ais_one_two_call_numbers": "Top up for",
         "payment_topup_label_choose_amount_baht": "Select amount (THB)",
         "payment_topup_button_see_more": "See more",
         "payment_topup_button_top_up": "Top up",
@@ -10821,7 +10821,7 @@
     },
     "my": {
         "helloWorld": "helloeverybody!!",
-        "version_lang": "v1.0.0-beta_20250114_2",
+        "version_lang": "v1.0.0-beta_20250114_3",
         "language_th": "ภาษาไทย",
         "language_en": "English",
         "language_my": "မြန်မာစာ",
@@ -16230,7 +16230,7 @@
     },
     "km": {
         "helloWorld": "helloeverybody!!",
-        "version_lang": "v1.0.0-beta_20250114_2",
+        "version_lang": "v1.0.0-beta_20250114_3",
         "language_th": "ภาษาไทย",
         "language_en": "English",
         "language_my": "မြန်မာစာ",
